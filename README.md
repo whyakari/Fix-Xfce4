@@ -6,7 +6,7 @@
 
 ---
 
-#### Fix-Xfce4 [ Ubuntu Only users ]
+#### Fix-Xfce4 [ Ubuntu v22 Only users ]
 > a fix for proot-distro/chroot_unshare for termux users.
 ```
  wget https://github.com/AkariOficial/Fix-Xfce4/releases/download/Ubuntu/xfce4-ubuntu22.zip
