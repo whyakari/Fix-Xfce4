@@ -1,4 +1,4 @@
-#### Fix-Xfce4 [ Manjaro/Arch Only users. ]
+#### Fix-Xfce4 [ Manjaro/Arch Only users ]
 > a fix for proot-distro/chroot_unshare for termux users.
 ```
  wget https://github.com/AkariOficial/Fix-Xfce4/releases/download/Arch%2FManjaro/fixInstallXfce.zip
