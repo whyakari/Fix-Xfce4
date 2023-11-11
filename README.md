@@ -1,4 +1,5 @@
-## Install xfce using termux and proot-distro or chroot unshare
+# Xfce4
+> Install xfce using termux and proot-distro or chroot unshare
 
 ### xfce4 (Manjaro/Arch Only users)
 > **a fix for proot-distro/chroot_unshare for termux users.**
